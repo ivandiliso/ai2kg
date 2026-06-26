@@ -11,6 +11,5 @@ Durante lo sviluppo dell'ontologia, i principi di Methontology hanno guidato la 
 
 Come riferimento pratico per la modellazione in OWL è stato utilizzato il testo _OWL 2 for Working Ontologist_ [@allemang2020owl]. Quest'ultimo ha costituito una guida fondamentale durante la fase di implementazione, fornendo esempi e buone pratiche per la progettazione delle gerarchie di classi, la definizione delle proprietà oggetto e dato, l'utilizzo delle restrizioni e l'organizzazione modulare dell'ontologia. Il testo è stato inoltre utile per comprendere le implicazioni del ragionamento automatico e per adottare uno stile di modellazione conforme alle raccomandazioni della comunità Semantic Web.
 
-# Libri di Testo
 
 

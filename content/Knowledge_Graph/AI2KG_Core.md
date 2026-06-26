@@ -1,3 +1,6 @@
+---
+title: AI2KG Core
+---
 
 ## Obiettivi e Finalità
 

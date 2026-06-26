@@ -1,6 +1,6 @@
-
-
-
+---
+title: Processo Costruzione
+---
 ## Sviluppo Incrementale e Iterativo
 
 Lo sviluppo dell'ontologia seguirà un approccio incrementale e iterativo. Invece di modellare fin dall'inizio tutti i concetti e i dettagli del dominio, verranno realizzate successive versioni dell'ontologia caratterizzate da livelli crescenti di dettaglio e specializzazione. La prima iterazione sarà finalizzata alla costruzione di una rappresentazione ad alto livello del dominio, concentrandosi principalmente sull'identificazione dei concetti fondamentali, della tassonomia principale e delle relazioni essenziali. Questa versione iniziale costituirà una base funzionale e validabile, già utilizzabile per le attività di analisi e verifica. Le iterazioni successive introdurranno progressivamente concetti più specifici, relazioni aggiuntive, attributi, vincoli e regole di dominio, consentendo di estendere e raffinare il modello in modo controllato. Ogni iterazione produrrà una versione coerente e utilizzabile dell'ontologia, che potrà essere valutata e validata prima di procedere con ulteriori approfondimenti. Tale approccio consente di ottenere rapidamente risultati utilizzabili, riducendo il rischio di errori di modellazione nelle fasi iniziali e favorendo il coinvolgimento continuo degli esperti del dominio durante il processo di sviluppo.
