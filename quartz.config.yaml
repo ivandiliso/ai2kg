@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: ai2kg
+  baseUrl: https://ivandiliso.github.io/ai2kg/ 
   ignorePatterns:
     - private
     - templates
