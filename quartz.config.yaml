@@ -2,12 +2,12 @@
 configuration:
   pageTitle: "Ai2 Wiki"
   pageTitleSuffix: ""
-  enableSPA: true
+  enableSPA: false
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://ivandiliso.github.io/ai2kg/ 
+  baseUrl: ivandiliso.github.io/ai2kg
   ignorePatterns:
     - private
     - templates
