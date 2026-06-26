@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: ai2wiki.github.io
+  baseUrl: ivandiliso.github.io
   ignorePatterns:
     - private
     - templates
