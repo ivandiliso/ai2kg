@@ -1,0 +1,1 @@
+Oggetti del piano schematico presentano informazione di direzionalità, la direzionalità definisce la direzione (sinistra, destra, o bidirezionale) di un oggetto. La direzione non è una informazione esplicita, questa, a volte, viene inferita solo dall’informazione grafica, analizzando visivamente il simbolo relativo all'oggetto. 

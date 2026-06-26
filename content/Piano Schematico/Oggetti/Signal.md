@@ -1,0 +1,5 @@
+Un Signal è un tipo di entità, fisica, che possiede informazione direzionale. Un segnale puo andare a coppia con uno stopping point, se questa connessione esiste, puo essere uno e uno solo (relazione 1 a 1 con gli stopping point) il segnale puo avere una informazione del senso di marcia, questo è collegato all’informazione delle direzione, come specificato, esiste un senso di marcia comune, ma ci sono dei casi particolari in cui il senso di marcia puo andare nella direzione opposta, il signal permette di rappresentare questo tipo di informazione. Un segnale puo essere collegato o a un Marker o ad un insieme di Marker. IMPORTANTE, con questo non intendiamo che viene connesso a piu marker, ma che puo essere connesso ad un oggetto di tipo “InsiemeMarker” che rappresenta un oggetto a parte che identifica piu marker diversi. Un Segnale si divide in due categorie principali:
+
+- Shuntil Signal
+    
+- Virtual Signal

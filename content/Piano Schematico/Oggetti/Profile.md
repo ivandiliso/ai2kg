@@ -1,0 +1,1 @@
+Un Profilo rappresenta una specifica caratterizzazione di una area. Piu avere possono condividere lo stesso profilo, pur essendo aree di tipologie diverse. Vengono riconosciuti due tipologie di profilo principali profilo “Gradient” e profilo “Static Speed” legati rispettivamente alle sottotipologie di aree “Gradient” e “Static Speed”.
