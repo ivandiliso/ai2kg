@@ -15,5 +15,7 @@ Riguardo la geometria dei [TrackSegment](Oggetti/TrackSegment.md) rispetto alle 
 - Se il punto di fine del segmento è contenuto in una area si dice che il segmento interseca a sinistra con l’area
 - Se il punto di destra e di sinistra sono entrambi in una area, si dice che il segmento è contenuto nell’area
 
+![intersect](../Schemi/intersect.svg)
+
 
 

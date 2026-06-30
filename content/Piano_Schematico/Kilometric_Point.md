@@ -30,6 +30,7 @@ Quando queste linee si intersecano, non è possibile assumere che la chilometric
 
 Per gestire il cambio di orientamento della chilometrica è necessario considerare i cosiddetti **salti di chilometrica**.
 
-Un salto di chilometrica rappresenta il punto in cui la continuità dell'ordinamento chilometrico viene interrotta a causa dell'intersezione tra linee con orientamenti diversi.
+Un salto di chilometrica rappresenta il punto in cui la continuità dell'ordinamento chilometrico viene interrotta a causa dell'intersezione tra linee con orientamenti diversi. Questa informazione viene rappresentata nel piano schematico da due tipologie di oggetti:
 
-Nello stato attuale del modello, i salti di chilometrica possono avvenire esclusivamente su oggetti di tipo [Switch](Oggetti/Switch.md), poiché questi rappresentano l'intersezione tra più linee ferroviarie.
+- [KPJump](Oggetti/KPJump.md)
+- [Switch](Oggetti/Switch.md)

@@ -9,5 +9,5 @@ L’obiettivo di questo documento è descrivere le fasi progettuali, scelte di m
 ## Indice dei Contenuti
 ### Knowledge Graph 
 
-1. [Processo_Costruzione](Knowledge_Graph/Processo_Costruzione.md)
+1. [Processo Costruzione](Knowledge_Graph/Processo_Costruzione.md)
 2. Fase 1: [ AI2KG Core](Knowledge_Graph/AI2KG_Core.md)

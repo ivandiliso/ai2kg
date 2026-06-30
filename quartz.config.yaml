@@ -268,7 +268,7 @@ plugins:
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
-      enableInteraction: false
+      enableInteraction: true
       darkMode: auto
       exportPadding: 300
     order: 50
